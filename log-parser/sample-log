@@ -1,0 +1,15 @@
+[2026-04-03 14:10:01] INFO  [AuthService] User 'jdoe' successfully logged in.
+[2026-04-03 14:10:15] INFO  [OrderService] Order #8821 processed.
+[2026-04-03 14:11:05] WARNING [Database] Connection pool reaching 90% capacity.
+[2026-04-03 14:12:30] ERROR [PaymentGateway] Failed to process transaction: Timeout from provider.
+[2026-04-03 14:12:32] INFO  [PaymentGateway] Retrying transaction for User 'asmith'...
+[2026-04-03 14:15:45] WARNING [System] High disk usage detected on /var/log.
+[2026-04-03 14:20:10] ERROR [FileSystem] Unable to write to disk: No space left on device.
+[2026-04-03 14:10:01] INFO  [AuthService] User 'jdoe' successfully logged in.
+[2026-04-03 14:10:15] INFO  [OrderService] Order #8821 processed.
+[2026-04-03 14:11:05] WARNING [Database] Connection pool reaching 90% capacity.
+[2026-04-03 14:12:30] ERROR [PaymentGateway] Failed to process transaction: Timeout from provider.
+[2026-04-03 14:12:32] INFO  [PaymentGateway] Retrying transaction for User 'asmith'...
+[2026-04-03 14:15:45] WARNING [System] High disk usage detected on /var/log.
+[2026-04-03 14:20:10] ERROR [FileSystem] Unable to write to disk: No space left on device.
+
