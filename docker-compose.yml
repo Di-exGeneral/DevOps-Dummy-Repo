@@ -8,3 +8,7 @@ services:
     build: logging
     volumes:
       - ./logs:/logs
+
+  parser:
+    build: log-parser
+
